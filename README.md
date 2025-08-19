@@ -1,2 +1,1 @@
-# Slitter-Multitool
-Slitter Discord Multitool!
+#                                   Slitter 
